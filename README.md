@@ -13,9 +13,9 @@ To use the contract, you can deploy it on the Ethereum blockchain using a platfo
 # Help
 If you have any issues or questions about using the contract, please refer to the Solidity documentation or seek assistance from a Solidity developer.
 
-Authors
+# Authors
 Allen D. de Mariano
 8211256@ntc.edu.ph
 
-License
+# License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
